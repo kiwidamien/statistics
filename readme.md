@@ -34,7 +34,7 @@
   * Issues with multiple comparisons
   * Bonforetti correction
 * __Correlation__
-  * What is correlation
+  * Define correlation
   * How to measure correlation
   * Look for correlation to "target", but correlated "features" are not useful
   * Difference between correlation and causation
